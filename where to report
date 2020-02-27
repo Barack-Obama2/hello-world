@@ -1,1 +1,8 @@
 https://github.com/AdguardTeam/AdguardFilters/issues
+
+> https://github.com/uBlockOrigin/uAssets/blob/master/README.md
+> 
+> > If an issue can be fixed without using extended syntax, i.e. scriptlet injection, redirect, procedural cosmetic filters, etc. the issue will, as a rule of thumb, not be fixed by uAssets, because fixing it in EasyList if possible is preferable.
+> 
+> In this case it's about classic filters - to be added to easylist or - even better - to the regional list (spa, por: AdGuard Spanish/Portuguese maintained by adguard: https://github.com/AdguardTeam/AdguardFilters/issues)
+
